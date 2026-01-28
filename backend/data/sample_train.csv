@@ -1,0 +1,11 @@
+text,label
+"Subject: Payroll Update\n\nPlease review the attached payroll schedule for February. Thanks.",0
+"Subject: Meeting Notes\n\nHere are the notes from today’s project meeting. Let me know if anything is missing.",0
+"Subject: Action Required: Verify your account\n\nYour mailbox storage is full. Verify your account now: https://secure-mailbox-login.example.com",1
+"Subject: Urgent wire transfer\n\nHi, I need you to process a wire transfer today and keep this confidential.",1
+"Subject: Invoice overdue\n\nYour invoice is past due. Pay now: https://billing-update.example.net",1
+"Subject: Security update\n\nPlease enable macros to view the secure document.",1
+"Subject: Shared document\n\nYou have a document waiting. Click here to open: http://docs-share.example.org",1
+"Subject: Lunch plans\n\nWant to grab lunch tomorrow at 12?",0
+"Subject: Password reset\n\nWe detected unusual activity. Reset your password: https://account-reset.example.com",1
+"Subject: Welcome\n\nWelcome to the team! Your onboarding info is in the shared drive.",0

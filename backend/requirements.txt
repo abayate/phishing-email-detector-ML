@@ -1,0 +1,31 @@
+# Core API
+fastapi==0.115.6
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+pydantic-settings==2.5.2
+python-multipart==0.0.12
+
+# HTTP + scheduling
+httpx==0.27.2
+apscheduler==3.10.4
+
+# Database
+sqlalchemy==2.0.36
+aiosqlite==0.20.0
+
+# ML + text processing
+scikit-learn==1.5.2
+numpy==2.1.3
+pandas==2.2.3
+joblib==1.4.2
+beautifulsoup4==4.12.3
+lxml==5.3.0
+
+# Crypto (token encryption, etc.)
+cryptography==43.0.3
+
+# Integrations (optional)
+google-auth==2.35.0
+google-auth-oauthlib==1.2.1
+google-api-python-client==2.151.0
+msal==1.31.0
